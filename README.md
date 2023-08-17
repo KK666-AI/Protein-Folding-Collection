@@ -81,11 +81,11 @@ Proteins: Structure, Function, and Bioinformatics 83, no. 8 (2015): 1436-1449.
 **CONFOLD**
 
 
-### Antibody Prediction
+### Antibody Structure Prediction
 
 
 - Yining Wang, Xumeng Gong, Shaochuan Li, Bing Yang, Yiwu Sun, Yujie Luo, Hui Li, Le Song
-[Fast de novo antibody structure prediction with atomic accuracy](https://aacrjournals.org/cancerres/article/83/7_Supplement/4296/722468)
+[Fast de novo antibody structure prediction with atomic accuracy](https://aacrjournals.org/cancerres/article/83/7_Supplement/4296/722468).
 The American Association for Cancer Research. 4296-4296.
 **xTrimoABFold++**
 
@@ -106,7 +106,7 @@ bioRxiv (2022).
 Frontiers in immunology 13 (2022): 958584.
 **NanoNet**
 
-Wang, Yining, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Hui Li, Yangang Wang, Cheng Yang, and Le Song. 
+- Wang, Yining, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Hui Li, Yangang Wang, Cheng Yang, and Le Song. 
 [xtrimoabfold: Improving antibody structure prediction without multiple sequence alignments](https://arxiv.org/pdf/2212.00735). 
 arXiv preprint arXiv:2212.00735 (2022).
 **xTrimoABFold**
