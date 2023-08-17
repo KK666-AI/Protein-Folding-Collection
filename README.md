@@ -78,6 +78,10 @@ BioRxiv (2022): 2021-10.
 Nature 596, no. 7873 (2021): 583-589.
 **AlphaFold2**
 
+- Wu, Jiaxiang, Tao Shen, Haidong Lan, Yatao Bian, and Junzhou Huang. 
+[SE (3)-equivariant energy-based models for end-to-end protein folding](https://www.biorxiv.org/content/10.1101/2021.06.06.447297.full.pdf).
+bioRxiv (2021): 2021-06.
+**SE(3)-Fold**
 
 - Adhikari, Badri, Debswapna Bhattacharya, Renzhi Cao, and Jianlin Cheng. 
 [CONFOLD: residue‐residue contact‐guided ab initio protein folding](https://www.academia.edu/download/45754134/Adhikari_et_al-2015-Proteins-_Structure_20160518-23277-apohcs.pdf)
