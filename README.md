@@ -11,6 +11,11 @@ This repository is contribution friendly, so if you want to add something, pleas
 
 ### General Protein Folding
 
+
+- Peng, Zhenling, Wenkai Wang, Hong Wei, Xiaoge Li, and Jianyi Yang. 
+[Improved protein structure prediction with trRosettaX2, AlphaFold2, and optimized MSAs in CASP15](http://yanglab.qd.sdu.edu.cn/papers/Peng_Proteins_2023.pdf). 
+Proteins: Structure, Function, and Bioinformatics. 2023.
+
 - Baek, Minkyung, Ivan Anishchenko, Ian Humphreys, Qian Cong, David Baker, and Frank DiMaio. 
 [Efficient and accurate prediction of protein structure using RoseTTAFold2](https://www.biorxiv.org/content/10.1101/2023.05.24.542179.full.pdf).
 bioRxiv (2023): 2023-05.
@@ -101,10 +106,27 @@ Proceedings of the National Academy of Sciences (PNAS) 117, no. 3 (2020): 1496-1
 **trRosetta**
 
 
+- AlQuraishi, Mohammed. 
+[End-to-end differentiable learning of protein structure](https://www.cell.com/cell-systems/pdf/S2405-4712(19)30076-6.pdf).
+Cell systems 8, no. 4 (2019): 292-301.
+
+
+- Xu, Jinbo. 
+[Distance-based protein folding powered by deep learning](https://www.pnas.org/doi/full/10.1073/pnas.1821309116).
+Proceedings of the National Academy of Sciences 116, no. 34 (2019): 16856-16865.
+
+
 - Adhikari, Badri, Debswapna Bhattacharya, Renzhi Cao, and Jianlin Cheng. 
 [CONFOLD: residue‐residue contact‐guided ab initio protein folding](https://www.academia.edu/download/45754134/Adhikari_et_al-2015-Proteins-_Structure_20160518-23277-apohcs.pdf)
 Proteins: Structure, Function, and Bioinformatics 83, no. 8 (2015): 1436-1449.
 **CONFOLD**
+
+
+- Brunger, Axel T. 
+[Version 1.2 of the Crystallography and NMR system](https://www.mrc-lmb.cam.ac.uk/public/xtal/doc/cns/cns_1.3/about_cns/brunger_nature_protocols_2007.pdf).
+Nature protocols 2, no. 11 (2007): 2728-2733.
+**CNS** (a useful tool to determine structure from distance map.)
+
 
 
 ### Antibody/Nanobody/Loop/Mini-Protein Folding
