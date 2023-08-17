@@ -32,6 +32,7 @@ Nature Methods (2022): 1-4.
 - Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng Zhang.
   [Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v3.full.pdf). 
 bioRxiv (2022).
+**Uni-Fold**
 
 
 - Cheng, Shenggan, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng, and Yang You.
