@@ -4,8 +4,8 @@
 ## Protein Folding Resource Collection
 
 
-In this repository you will find papers, tutorials and open-resource projects related to Protein Folding. 
-The goal is to used as a learning resource.
+In this repository you will find papers, tutorials and open-resource projects related to protein folding. 
+The goal is to collect learning resources.
 This repository is contribution friendly, so if you want to add something, please feel free to submit a PR.
 
 
