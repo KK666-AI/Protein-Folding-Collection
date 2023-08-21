@@ -16,6 +16,7 @@ This repository is contribution friendly, so if you want to add something, pleas
 [Improved protein structure prediction with trRosettaX2, AlphaFold2, and optimized MSAs in CASP15](http://yanglab.qd.sdu.edu.cn/papers/Peng_Proteins_2023.pdf). 
 Proteins: Structure, Function, and Bioinformatics. 2023.
 
+
 - Baek, Minkyung, Ivan Anishchenko, Ian Humphreys, Qian Cong, David Baker, and Frank DiMaio. 
 [Efficient and accurate prediction of protein structure using RoseTTAFold2](https://www.biorxiv.org/content/10.1101/2023.05.24.542179.full.pdf).
 bioRxiv (2023): 2023-05.
@@ -38,23 +39,6 @@ arXiv. 2022.
 bioRxiv (2022).
 **ESMFold**
 
-
-- Mirdita, Milot, Konstantin Schütze, Yoshitaka Moriwaki, Lim Heo, Sergey Ovchinnikov, and Martin Steinegger. 
-[ColabFold: making protein folding accessible to all](https://www.nature.com/articles/s41592-022-01488-1).
-Nature Methods (2022): 1-4.
-**ColabFold**
-
-
-- Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng Zhang.
-  [Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v3.full.pdf). 
-bioRxiv (2022).
-**Uni-Fold**
-
-
-- Cheng, Shenggan, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng, and Yang You.
-  [FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours](https://arxiv.org/pdf/2203.00854.pdf). 
-arXiv preprint arXiv:2203.00854 (2022).
-**FastFold**
 
 
 - Wu, Ruidong, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su et al. 
@@ -233,4 +217,45 @@ Patterns 3, no. 2 (2022): 100406.
 - Jing, Bowen, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, and Tommi Jaakkola. 
 [EigenFold: Generative Protein Structure Prediction with Diffusion Models](https://arxiv.org/pdf/2304.02198). 
 arXiv preprint arXiv:2304.02198 (2023).
+
+
+
+### Engineering Tech on Folding
+
+- Lee, Jaemyung, Jaehoon Kim, Hasun Yu, and Youhan Lee. 
+[Solvent: A Framework for Protein Folding](https://arxiv.org/pdf/2307.04603).
+arXiv preprint arXiv:2307.04603 (2023).
+
+
+- Mirdita, Milot, Konstantin Schütze, Yoshitaka Moriwaki, Lim Heo, Sergey Ovchinnikov, and Martin Steinegger. 
+[ColabFold: making protein folding accessible to all](https://www.nature.com/articles/s41592-022-01488-1).
+Nature Methods (2022): 1-4.
+**ColabFold**
+
+
+- Li, Ziyao, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, and Linfeng Zhang.
+  [Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v3.full.pdf). 
+bioRxiv (2022).
+**Uni-Fold**
+
+
+- Cheng, Shenggan, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng, and Yang You.
+  [FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours](https://arxiv.org/pdf/2203.00854.pdf). 
+arXiv preprint arXiv:2203.00854 (2022).
+**FastFold**
+
+- Ahdritz, Gustaf, Nazim Bouatta, Sachin Kadyan, Qinghui Xia, William Gerecke, Timothy J. O’Donnell, Daniel Berenberg et al. 
+[OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization](https://www.biorxiv.org/content/10.1101/2022.11.20.517210.full.pdf). 
+bioRxiv (2022): 2022-11.
+
+- Wang, Guoxia, Xiaomin Fang, Zhihua Wu, Yiqun Liu, Yang Xue, Yingfei Xiang, Dianhai Yu, Fan Wang, and Yanjun Ma. 
+[Helixfold: An efficient implementation of alphafold2 using paddlepaddle](https://arxiv.org/pdf/2207.05477).
+arXiv preprint arXiv:2207.05477 (2022).
+
+
+### Related Works
+
+- Kandathil, Shaun M., Andy M. Lau, and David T. Jones. 
+[Machine learning methods for predicting protein structure from single sequences](https://www.sciencedirect.com/science/article/pii/S0959440X2300101X).
+Current Opinion in Structural Biology 81 (2023): 102627.
 
