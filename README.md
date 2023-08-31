@@ -115,6 +115,11 @@ Nature protocols 2, no. 11 (2007): 2728-2733.
 
 ### Antibody/Nanobody/Loop/Mini-Protein Folding
 
+- Burbach, Sarah M., and Bryan Briney. 
+[Improving antibody language models with native pairing](https://arxiv.org/pdf/2308.14300).
+arXiv preprint arXiv:2308.14300 (2023).
+
+
 - Fernández-Quintero, Monica L., Janik Kokot, Franz Waibl, Anna-Lena M. Fischer, Patrick K. Quoika, Charlotte M. Deane, and Klaus R. Liedl. 
 [Challenges in antibody structure prediction](https://www.tandfonline.com/doi/full/10.1080/19420862.2023.2175319). 
 In MAbs, vol. 15, no. 1, p. 2175319. Taylor & Francis, 2023.
