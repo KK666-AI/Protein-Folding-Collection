@@ -78,12 +78,6 @@ Nature 596, no. 7873 (2021): 583-589.
 **AlphaFold2**
 
 
-- Wu, Jiaxiang, Tao Shen, Haidong Lan, Yatao Bian, and Junzhou Huang. 
-[SE (3)-equivariant energy-based models for end-to-end protein folding](https://www.biorxiv.org/content/10.1101/2021.06.06.447297.full.pdf).
-bioRxiv (2021): 2021-06.
-**SE(3)-Fold**
-
-
 - Yang, Jianyi, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov, and David Baker. 
 [Improved protein structure prediction using predicted interresidue orientations](https://www.pnas.org/doi/full/10.1073/pnas.1914677117). 
 Proceedings of the National Academy of Sciences (PNAS) 117, no. 3 (2020): 1496-1503.
@@ -99,6 +93,9 @@ Cell systems 8, no. 4 (2019): 292-301.
 [Distance-based protein folding powered by deep learning](https://www.pnas.org/doi/full/10.1073/pnas.1821309116).
 Proceedings of the National Academy of Sciences 116, no. 34 (2019): 16856-16865.
 
+- Adhikari, Badri, and Jianlin Cheng. 
+[CONFOLD2: improved contact-driven ab initio protein structure modeling](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2032-6).
+BMC bioinformatics 19 (2018): 1-5.
 
 - Adhikari, Badri, Debswapna Bhattacharya, Renzhi Cao, and Jianlin Cheng. 
 [CONFOLD: residue‐residue contact‐guided ab initio protein folding](https://www.academia.edu/download/45754134/Adhikari_et_al-2015-Proteins-_Structure_20160518-23277-apohcs.pdf)
@@ -217,15 +214,20 @@ bioRxiv (2022): 2022-10.
 Patterns 3, no. 2 (2022): 100406.
 
 
+
 ### Protein Conformation/Distribution
 
 - Jing, Bowen, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, and Tommi Jaakkola. 
 [EigenFold: Generative Protein Structure Prediction with Diffusion Models](https://arxiv.org/pdf/2304.02198). 
 arXiv preprint arXiv:2304.02198 (2023).
 
+- Wu, Jiaxiang, Tao Shen, Haidong Lan, Yatao Bian, and Junzhou Huang. 
+[SE (3)-equivariant energy-based models for end-to-end protein folding](https://www.biorxiv.org/content/10.1101/2021.06.06.447297.full.pdf).
+bioRxiv (2021): 2021-06.
+**SE(3)-Fold**
 
 
-### Engineering Tech on Folding
+### Engineering Tech. on Folding
 
 - Lee, Jaemyung, Jaehoon Kim, Hasun Yu, and Youhan Lee. 
 [Solvent: A Framework for Protein Folding](https://arxiv.org/pdf/2307.04603).
@@ -258,7 +260,18 @@ bioRxiv (2022): 2022-11.
 arXiv preprint arXiv:2207.05477 (2022).
 
 
+### Tools
+
+- Gutierrez, Santiago, Wojciech G. Tyczynski, Wouter Boomsma, Felix Teufel, and Ole Winther. 
+[MembraneFold: Visualising transmembrane protein structure and topology](https://www.biorxiv.org/content/10.1101/2022.12.06.518085v1.full.pdf).
+bioRxiv (2022): 2022-12.
+
+
 ### Related Works
+
+- Amini, Ava P., and Kevin K. Yang. 
+[From noise to protein with image models](https://www.nature.com/articles/s43588-023-00454-x).
+Nature Computational Science (2023): 1-2.
 
 - Kandathil, Shaun M., Andy M. Lau, and David T. Jones. 
 [Machine learning methods for predicting protein structure from single sequences](https://www.sciencedirect.com/science/article/pii/S0959440X2300101X).
