@@ -60,22 +60,27 @@ bioRxiv (2022): 2022-10.
 **MonoFold/PolyFold**
 
 
-- Chowdhury, Ratul, Nazim Bouatta, Surojit Biswas, Charlotte Rochereau, George M. Church, Peter K. Sorger, and Mohammed AlQuraishi. 
-[Single-sequence protein structure prediction using language models from deep learning](https://www.biorxiv.org/content/biorxiv/early/2021/08/04/2021.08.02.454840.full.pdf). 
-bioRxiv (2021).
-**RGN2**
-
-  
 - Evans, Richard, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek et al. 
 [Protein complex prediction with AlphaFold-Multimer](https://www.biorxiv.org/content/biorxiv/early/2022/03/10/2021.10.04.463034.full.pdf). 
 BioRxiv (2022): 2021-10.
 **AlphaFold-Multimer**
 
 
+- Chowdhury, Ratul, Nazim Bouatta, Surojit Biswas, Charlotte Rochereau, George M. Church, Peter K. Sorger, and Mohammed AlQuraishi. 
+[Single-sequence protein structure prediction using language models from deep learning](https://www.biorxiv.org/content/biorxiv/early/2021/08/04/2021.08.02.454840.full.pdf). 
+bioRxiv (2021).
+**RGN2**
+
+
 - Jumper, John, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool et al. 
 [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2).
 Nature 596, no. 7873 (2021): 583-589.
 **AlphaFold2**
+
+- Lamb, John, and Arne Elofsson. 
+[pyconsFold: a fast and easy tool for modeling and docking using distance predictions](https://academic.oup.com/bioinformatics/article/37/21/3959/6317824).
+Bioinformatics 37, no. 21 (2021): 3959-3960.
+**pyconsFold**
 
 
 - Yang, Jianyi, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov, and David Baker. 
@@ -217,9 +222,18 @@ Patterns 3, no. 2 (2022): 100406.
 
 ### Protein Conformation/Distribution
 
+
+- Nithiyanandam, Saraswathy, Vinoth Kumar Sangaraju, Balachandran Manavalan, and Gwang Lee. 
+[Computational prediction of protein folding rate using structural parameters and network centrality measures](https://www.sciencedirect.com/science/article/pii/S0010482522011441).
+Computers in Biology and Medicine 155 (2023): 106436.
+
 - Jing, Bowen, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, and Tommi Jaakkola. 
 [EigenFold: Generative Protein Structure Prediction with Diffusion Models](https://arxiv.org/pdf/2304.02198). 
 arXiv preprint arXiv:2304.02198 (2023).
+
+- Wallner, Björn. 
+[AFsample: Improving Multimer Prediction with AlphaFold using Aggressive Sampling](https://www.biorxiv.org/content/biorxiv/early/2023/02/07/2022.12.20.521205.full.pdf).
+bioRxiv (2022): 2022-12.
 
 - Wu, Jiaxiang, Tao Shen, Haidong Lan, Yatao Bian, and Junzhou Huang. 
 [SE (3)-equivariant energy-based models for end-to-end protein folding](https://www.biorxiv.org/content/10.1101/2021.06.06.447297.full.pdf).
@@ -268,6 +282,11 @@ bioRxiv (2022): 2022-12.
 
 
 ### Related Works
+
+
+- Nam, Kwangho, and Magnus Wolf-Watz. 
+[Protein dynamics: The future is bright and complicated!](https://pubs.aip.org/aca/sdy/article/10/1/014301/2876350).
+Structural Dynamics 10, no. 1 (2023).
 
 - Amini, Ava P., and Kevin K. Yang. 
 [From noise to protein with image models](https://www.nature.com/articles/s43588-023-00454-x).
