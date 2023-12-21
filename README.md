@@ -11,6 +11,10 @@ This repository is contribution friendly, so if you want to add something, pleas
 
 ### General Protein Folding
 
+- Lee, Jae-Won, Jong-Hyun Won, Seonggwang Jeon, Yujin Choo, Yubin Yeon, Jin-Seon Oh, Minsoo Kim et al. 
+[DeepFold: enhancing protein structure prediction through optimized loss functions, improved template features, and re-optimized energy function](https://academic.oup.com/bioinformatics/article/39/12/btad712/7443992).
+Bioinformatics 39, no. 12 (2023): btad712.
+
 
 - Peng, Zhenling, Wenkai Wang, Hong Wei, Xiaoge Li, and Jianyi Yang. 
 [Improved protein structure prediction with trRosettaX2, AlphaFold2, and optimized MSAs in CASP15](http://yanglab.qd.sdu.edu.cn/papers/Peng_Proteins_2023.pdf). 
@@ -275,6 +279,16 @@ arXiv preprint arXiv:2207.05477 (2022).
 
 
 ### Tools
+
+#### Template Alignment
+
+- Lee, Sung Jong, Keehyoung Joo, Sangjin Sim, Juyong Lee, In-Ho Lee, and Jooyoung Lee. 
+[CRFalign: A Sequence-structure alignment of proteins based on a combination of HMM-HMM comparison and conditional random fields].
+Molecules 27, no. 12 (2022): 3711.
+
+
+#### Visualization
+
 
 - Gutierrez, Santiago, Wojciech G. Tyczynski, Wouter Boomsma, Felix Teufel, and Ole Winther. 
 [MembraneFold: Visualising transmembrane protein structure and topology](https://www.biorxiv.org/content/10.1101/2022.12.06.518085v1.full.pdf).
